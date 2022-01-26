@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(239, 250, 241);
+}
+
+hr {
+    background-color: rgb(239, 250, 241);
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    width: 10%;
+}
+
+h1 {
+    color: #66BFBF;
+}
+
+h3 {
+    color: #66BFBF;
+}
